@@ -1,7 +1,7 @@
 # -PRYK---NodeJSArduinoFRLNC
 Proyecto desarrollado en Node JS con comunicación bidireccional con Arduino.
 
-*Cosas a considerar para el deploy de la aplicación, se requieren de **ciertas** librerias JavaScript*; ***se puede buscar en internet de cómo lograr instalarlas***
+*Cosas a considerar para el deploy de la aplicación, se requiere instalar el **framework Node JS** y tambien **ciertas** librerias JavaScript*; ***se puede buscar en internet de cómo lograr instalarlas***
 * Instalar **NodeJS** desde consola 
 * Una vez con los comandos de NodeJS se deben instalar las siguientes librerias JavaScript a través de **npm**.
   * Instalar **Express** con un comando como ***node install espress***
