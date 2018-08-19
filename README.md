@@ -18,4 +18,4 @@ Para agregar condiciones debes módificar el archivo **/js/main.js** en la secci
 **NO** es recomendable modificar el archivo ***node/node.js*** es el servidor, para echar a andar el proyecto debes situarte en la carpeta raiz; en este caso **NodeJSArduino/** y ejecutar el comando a través de la consola y Node JS previamente instalado:
 
 ### *node node/node.js*
-El comando es *node* y ejecutas el servidor quie está en el archivo *node.js* dentro de la carpeta *node*
+El comando es *node* y ejecutas el servidor que está en el archivo *node.js* dentro de la carpeta *node*
